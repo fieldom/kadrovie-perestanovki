@@ -1,0 +1,2 @@
+# kadrovie-perestanovki
+Олимпиадная задача
